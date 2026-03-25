@@ -1,0 +1,12 @@
+node_modules
+__pycache__
+*.pyc
+.env
+.git
+.claude
+data/*.db
+frontend/node_modules
+frontend/dist
+docs
+tests
+*.md

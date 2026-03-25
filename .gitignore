@@ -2,7 +2,8 @@ node_modules/
 __pycache__/
 *.pyc
 .env
-data/*.db
+data/
+backend/data/
 frontend/dist/
 backend/static/
 backend/app/prompts.json
